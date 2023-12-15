@@ -4,7 +4,7 @@
 #  About Me:
 - I have a strong background in sales and sales management, skilled in customer interaction and team leadership.
 
-- Passionate about anything data-related. Currently spearheading dialer administration, managing massive lists for strategic control, and optimizing efficiency and resource utilization.
+- Passionate about anything data-related. Trained in dialer administration, to manage massive lists for strategic control, and optimize efficiency and resource utilization.
 
 - In this role I also leverage data-driven insights to optimize call center operations, analyzing call data to uncover patterns and trends for enhanced overall performance.
 
