@@ -2,10 +2,13 @@
 
 ## Sales Team Lead | Data Scientist | Computer Science
 #  About Me:
-- I have a strong background in sales and sales management. I love interacting with customers and acting as a leader for my team of experienced sales agents.
-- I enjoy anything data related. In my current position I spearhead the administration of dials, managing massive lists of names and numbers and implimenting strategic control over dialer operations in order to optimize efficiency and resource utilization.
-- I also utilize data-driven insights to enhance call center operations analizing call data and identifying patterns and trends to improve overall performance.
-- In my free time I love to spend time with family and friends, play instruments, go to the gym, and snowboard.
+- I have a strong background in sales and sales management, skilled in customer interaction and team leadership.
+
+- Passionate about anything data-related. Currently spearheading dialer administration, managing massive lists for strategic control, and optimizing efficiency and resource utilization.
+
+- In this role I also leverage data-driven insights to optimize call center operations, analyzing call data to uncover patterns and trends for enhanced overall performance.
+
+- In my free time, I enjoy time with family and friends, music, going to the gym, and snowboarding.
 
 
 ## 🌐 Socials:
