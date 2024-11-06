@@ -1,14 +1,14 @@
 ### Hey, I'm Josh 👋
 
-## Sales Team Lead | Data Scientist | Computer Science
+## Django Developer | Data Scientist | Computer Science
 #  About Me:
 - I have a strong background in sales and sales management, skilled in customer interaction and team leadership.
 
 - Passionate about anything data-related. Trained in dialer administration, to manage massive lists for strategic control, and optimize efficiency and resource utilization.
 
-- In this role I also leverage data-driven insights to optimize call center operations, analyzing call data to uncover patterns and trends for enhanced overall performance.
+- Currently developing a scalable CRM system for legal support cases, used for tracking hundreds of thousands of mass tort law cases.
 
-- In my free time, I enjoy time with family and friends, music, going to the gym, and snowboarding.
+- In my free time, I enjoy time with family and friends, music, going to the gym, and running.
 
 
 ## 🌐 Socials:
