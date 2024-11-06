@@ -1,6 +1,6 @@
 ### Hey, I'm Josh 👋
 
-## Django Developer | Data Scientist | Computer Science
+##   Data Scientist | Django Developer | Computer Science
 #  About Me:
 - I have a strong background in sales and sales management, skilled in customer interaction and team leadership.
 
