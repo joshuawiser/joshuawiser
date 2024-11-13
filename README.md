@@ -2,12 +2,12 @@
 
 ##   Data Scientist | Django Developer | Computer Science
 #  About Me:
-- I have a strong background in sales and sales management, skilled in customer interaction and team leadership.
+- I am a data enthusiast and developer with a strong focus on building scalable systems and leveraging analytics for impactful solutions. Currently, I'm developing a custom CRM system designed to track hundreds of thousands of mass tort law cases, enhancing legal support operations by ensuring accurate, accessible case data.
 
-- Passionate about anything data-related. Trained in dialer administration, to manage massive lists for strategic control, and optimize efficiency and resource utilization.
+- My background includes extensive experience in data management and dialer administration, where I optimized resource utilization through data-driven strategy and large-scale data handling.
 
-- Currently developing a scalable CRM system for legal support cases, used for tracking hundreds of thousands of mass tort law cases.
-
+- Previously, I led teams in sales management, honing skills in customer engagement and leadership, which I now bring into my technical work to ensure user-focused, efficient solutions.
+  
 - In my free time, I enjoy time with family and friends, music, going to the gym, and running.
 
 
